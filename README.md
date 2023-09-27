@@ -2,7 +2,7 @@
 🧩 pet project in progress 🧩
 -------------------
 
-🎮 [Play now](https://github.com/user/repository/subscription) 🎮
+🎮 [Play now](https://danieldarvin.itch.io/mystical-journey-the-first-step) 🎮
 
 -------------------
 ![](https://github.com/DanyDarvin/MysticalJourney-OpenData/blob/main/Images/DanyDarvin1_1.gif)
