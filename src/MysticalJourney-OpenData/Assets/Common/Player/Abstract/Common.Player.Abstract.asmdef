@@ -1,0 +1,21 @@
+{
+    "name": "Common.Player.Abstract",
+    "rootNamespace": "",
+    "references": [
+        "UniRx",
+        "Common.Input.Abstract",
+        "Common.Stats.Abstract",
+        "Common.GameLogic.Abstract",
+        "Common.Components.Abstract",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

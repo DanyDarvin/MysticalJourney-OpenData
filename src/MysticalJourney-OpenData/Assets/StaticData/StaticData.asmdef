@@ -1,0 +1,18 @@
+{
+    "name": "StaticData",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Addressables",
+        "Zenject",
+        "Common.Stats.Abstract"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

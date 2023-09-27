@@ -1,0 +1,20 @@
+{
+    "name": "Common.Ui.Screens",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "StaticData",
+        "Common.Addressable",
+        "Zenject",
+        "Unity.Addressables"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
