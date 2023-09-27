@@ -5,7 +5,7 @@
 🎮 [Play now](https://danieldarvin.itch.io/mystical-journey-the-first-step) 🎮
 
 -------------------
-![](https://github.com/DanyDarvin/MysticalJourney-OpenData/blob/main/Images/DanyDarvin1_1.gif)
+![](https://github.com/DanyDarvin/MysticalJourney-OpenData/blob/main/Images/DanyDarvin1_2.gif)
 
 "Mystical Journey : The First Step"  - demo prototype is a small, interactive sample of the upcoming 3D adventure game. The demo will give players a taste of the game's gameplay.
 
